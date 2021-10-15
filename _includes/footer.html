@@ -1,0 +1,38 @@
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="footer-top">
+          <h2 class="logo-title">
+            <a href="{{site.baseurl}}/" class="logo-text">Fitrah Aditiya</a><br>
+            	<div class="footer-bottom">
+            	<div class="footer-social">
+           <ul class="list-reset">
+              {% if site.facebook %}
+              <li><a href="{{ site.facebook }}"><i class="ion ion-logo-facebook"></i></a></li>
+              {% else %} {% endif %}
+
+              {% if site.github %}
+              <li><a href="{{ site.github }}"><i class="ion ion-logo-github"></i></a></li>
+              {% else %} {% endif %}
+
+              {% if site.instagram %}
+              <li><a href="{{ site.instagram }}"><i class="ion ion-logo-instagram"></i></a></li>
+              {% else %} {% endif %}
+
+              {% if site.linkedin %}
+              <li><a href="{{ site.linkedIn }}"><i class="ion ion-logo-linkedin"></i></a></li>
+              {% else %} {% endif %}
+            </ul>
+          </h2>
+          <div class="top"><i class="ion ion-ios-arrow-up"></i></div>
+        </div>
+          <div class="copyright">
+            <p>&copy; {{site.time | date: '%Y'}} Designed By <a href="https://github.com/aditiyaf">Fitrah Aditiya</a>
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer> <!-- /.footer -->

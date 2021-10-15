@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+
+  {% if site.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+  {% include header.html %}
+  
+      {{ content }}
+
+  {% include footer.html %}
+  {% include javascripts.html %}
+<script src="/js/jquery.min.js"></script>
+{% include add-to-homescreen.html %}
+</body>
+
+</html>
