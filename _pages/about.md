@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 👋 ABOUT
-image: 01.jpg
+image: 1634294363220.jpg
 permalink: /about/
 ---
 
