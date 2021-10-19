@@ -1,6 +1,4 @@
-Galada - Easy & Simple Theme for Personal Blog
-======
-Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog.
+Lightbl - Responsive Theme For Personal Blog
 
 * * *
 
@@ -46,13 +44,7 @@ Table of Contents
 
 ### Demo
 
-Check the theme in action [Demo](https://artemsheludko.github.io/galada/)
-
-![Main page preview](https://github.com/artemsheludko/galada/blob/master/img/galada-main-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/galada/blob/master/img/galada-post.jpg?raw=true)
+Check the theme in action [Demo](https://aditiyaf.sbs/)
 
 * * *
 
@@ -139,33 +131,3 @@ To integrate Google Analytics, open `_config.yml`, and add your Google Analytics
           
 
 * * *
-
-### Update favicon
-
-You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
-
-* * *
-
-### Credits
-
-I have used the following scripts, fonts or other files as listed.
-
-*   [Google Fonts](https://fonts.google.com/specimen/Nunito) (Nunito, Sans Serif).
-*   [Ionicons Icons](https://ionicons.com/)
-*   [FitVids.js](http://fitvidsjs.com/)
-*   [Instafeed.js](http://instafeedjs.com/)
-*   [jQuery.com](https://jquery.com/)
-*   [Wait For Images](https://github.com/alexanderdickson/waitForImages)
-*   Preview Images form [unsplash.com](https://unsplash.com/), [pexels.com](https://www.pexels.com/)
-
-* * *
-### License
-
-Mit License
-
-* * *
-
-### Support
-
-<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
-<p align="center"><b>Thank you for your support ❤️</b></p>
